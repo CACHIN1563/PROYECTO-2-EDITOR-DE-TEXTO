@@ -1,4 +1,4 @@
-# Proyecto II - Editor de Texto en Java
+# Proyecto II
 
 Este es un proyecto básico de un editor de texto desarrollado por Carlos Cachin y Ruben García en Java. 
 El objetivo principal fue aplicar los conocimientos adquiridos sobre pilas y colas.
