@@ -23,7 +23,7 @@ El objetivo principal fue aplicar los conocimientos adquiridos sobre pilas y col
 ## Requisitos
 
 - Java JDK 8 o superior.
-- IDE recomendado: NetBeans, IntelliJ IDEA o cualquier otro compatible con Java Swing.
+- IDE recomendado: NetBeans con Java Swing.
 
 Aunque no es un editor profesional, cumple con funciones básicas y fue útil para poner en práctica conceptos como eventos, estructuras de datos y diseño de interfaces.
 
